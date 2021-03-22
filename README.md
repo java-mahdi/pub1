@@ -1,2 +1,2 @@
 # pub1
-[msssn]{www.msn.com}
+[msssn](www.msn.com)
